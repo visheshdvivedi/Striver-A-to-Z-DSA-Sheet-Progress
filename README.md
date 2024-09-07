@@ -4,19 +4,26 @@ This repository contains my solutions to the problems from the Striver A to Z DS
 
 ## Current Progress
 
-Total Progress: ![5%](https://us-central1-progress-markdown.cloudfunctions.net/progress/5)
+Total Progress: ![8%](https://us-central1-progress-markdown.cloudfunctions.net/progress/8)
 
 Topic Wise Progress:
 
 <details>
-<summary>Learn the Basics: 80%</summary>
+<summary>Learn the Basics: 100%</summary>
 
 - Lec 1: Things to Know in C++: ![100%](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
 - Lec 2: Build-up Logical Thinking: ![100%](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
 - Lec 3: Learn STL: ![100%](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
 - Lec 4: Know Basic Maths: ![100%](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
-- Lec 5: Learn Basic Recursion: ![67%](https://us-central1-progress-markdown.cloudfunctions.net/progress/67)
-- Lec 6: Learn Basic Hashing: ![0%](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
+- Lec 5: Learn Basic Recursion: ![100%](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
+- Lec 6: Learn Basic Hashing: ![100%](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
+</details>
+
+<details>
+<summary>Learn Important Sorting Techniques: 100%</summary>
+
+- Lec 1: Sorting-I: ![100%](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
+- Lec 2: Sorting-II: ![100%](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
 </details>
 
 <!-- <details>
@@ -36,7 +43,7 @@ Topic Wise Progress:
 
 ## Repository Structure
 
-- **`/Solutions`**: Contains folders and files with code solutions for each problem. It further contains folders based on categorization as per the DSA sheet Each folder is named according to the problem or topic.
+- **`/solutions`**: Contains folders and files with code solutions for each problem. It further contains folders based on categorization as per the DSA sheet Each folder is named according to the problem or topic.
 
 ## How to Use
 
