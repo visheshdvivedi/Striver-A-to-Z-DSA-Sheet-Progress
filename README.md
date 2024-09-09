@@ -26,20 +26,11 @@ Topic Wise Progress:
 - Lec 2: Sorting-II: ![100%](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
 </details>
 
-<!-- <details>
-<summary>Learn Important Sorting Techniques: 100%</summary>
-
-- Lec 1: Sorting-1: ![100%](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
-- Lec 2: Sorting-2: ![100%](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
-</details>
-
 <details>
-<summary>Arrays: 77%</summary>
+<summary>Solve Problem on Arrays</summary>
 
-- Easy: ![100%](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
-- Medium: ![100%](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
-- Hard: ![25%](https://us-central1-progress-markdown.cloudfunctions.net/progress/25)
-</details> -->
+- Lec 1: Easy: ![71%](https://us-central1-progress-markdown.cloudfunctions.net/progress/71)
+</details>
 
 ## Repository Structure
 
