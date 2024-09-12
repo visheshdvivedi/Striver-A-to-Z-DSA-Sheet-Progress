@@ -27,9 +27,10 @@ Topic Wise Progress:
 </details>
 
 <details>
-<summary>Solve Problem on Arrays</summary>
+<summary>Solve Problem on Arrays: 35%</summary>
 
-- Lec 1: Easy: ![71%](https://us-central1-progress-markdown.cloudfunctions.net/progress/71)
+- Lec 1: Easy: ![100%](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
+- Lec 2: Medium: ![100%](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
 </details>
 
 ## Repository Structure
