@@ -4,7 +4,7 @@ This repository contains my solutions to the problems from the Striver A to Z DS
 
 ## Current Progress
 
-Total Progress: ![8%](https://us-central1-progress-markdown.cloudfunctions.net/progress/8)
+Total Progress: ![19%](https://us-central1-progress-markdown.cloudfunctions.net/progress/19)
 
 Topic Wise Progress:
 
@@ -27,11 +27,19 @@ Topic Wise Progress:
 </details>
 
 <details>
-<summary>Solve Problem on Arrays: 62%</summary>
+<summary>Solve Problem on Arrays: 92%</summary>
 
 - Lec 1: Easy: ![100%](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
-- Lec 2: Medium: ![78%](https://us-central1-progress-markdown.cloudfunctions.net/progress/78)
-- Lec 3: Hard: ![0%](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
+- Lec 2: Medium: ![100%](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
+- Lec 3: Hard: ![75%](https://us-central1-progress-markdown.cloudfunctions.net/progress/75)
+</details>
+
+<details>
+<summary>Binary Search: 37%</summary>
+
+- Lec 1: BS on 1D array: ![92%](https://us-central1-progress-markdown.cloudfunctions.net/progress/92)
+- Lec 2: BS on Answers: ![0%](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
+- Lec 3: BS on 2D array: ![0%](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
 </details>
 
 ## Repository Structure
@@ -47,7 +55,7 @@ Topic Wise Progress:
 
 2. **Browse Solutions**
 
-    Navigate to the ```Solutions``` directory to find code implementations for various problems.
+    Navigate to the ```solutions``` directory to find code implementations for various problems.
 
 ## Contributing
 
