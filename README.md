@@ -4,14 +4,14 @@ This repository contains my solutions to the problems from the Striver A to Z DS
 
 ## Current Progress
 
-Total Progress: ![19%](https://us-central1-progress-markdown.cloudfunctions.net/progress/19)
+Total Progress: ![1%](https://us-central1-progress-markdown.cloudfunctions.net/progress/1)
 
 Topic Wise Progress:
 
 <details>
-<summary>Learn the Basics: 100%</summary>
+<summary>Learn the Basics: 9.8%</summary>
 
-- Lec 1: Things to Know in C++: ![100%](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
+- Lec 1: Things to Know in C++: ![33%](https://us-central1-progress-markdown.cloudfunctions.net/progress/33)
 </details>
 
 ## Repository Structure
