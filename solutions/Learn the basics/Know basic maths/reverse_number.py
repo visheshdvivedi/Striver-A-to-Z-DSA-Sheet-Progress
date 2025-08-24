@@ -1,3 +1,10 @@
+"""
+Link: https://takeuforward.org/plus/dsa/problems/reverse-a-number
+Name: Reverse a number
+Difficulty: Easy
+Description: 
+You are given an integer n. Return the integer formed by placing the digits of n in reverse order.
+"""
 class Solution:
     def reverse(self, x: int) -> int:
         negative = bool(x < 0)
